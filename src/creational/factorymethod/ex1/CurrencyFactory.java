@@ -1,4 +1,4 @@
-package creational.factorymethod;
+package creational.factorymethod.ex1;
 
 public class CurrencyFactory {
     public static Currency newCurrency(Country country) {
