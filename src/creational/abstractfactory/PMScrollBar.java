@@ -1,4 +1,4 @@
-package creational.abstractfactory.ex1;
+package creational.abstractfactory;
 
 public class PMScrollBar extends ScrollBar{
     public PMScrollBar(String nomeScrollBar) {

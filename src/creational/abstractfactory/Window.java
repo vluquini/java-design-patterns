@@ -1,4 +1,4 @@
-package creational.abstractfactory.ex1;
+package creational.abstractfactory;
 
 public abstract class Window {
     private String nomeWindow;

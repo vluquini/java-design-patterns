@@ -1,4 +1,4 @@
-package creational.abstractfactory.ex1;
+package creational.abstractfactory;
 
 public class MotifScrollBar extends ScrollBar{
     public MotifScrollBar(String nomeScrollBar) {

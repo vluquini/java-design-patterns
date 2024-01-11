@@ -1,4 +1,4 @@
-package creational.abstractfactory.ex1;
+package creational.abstractfactory;
 
 public class PMWindow extends Window{
     public PMWindow(String nomeWindow) {
