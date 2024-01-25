@@ -1,4 +1,4 @@
-package structural.flyweight;
+package structural.flyweight.ex1;
 
 import java.awt.*;
 
