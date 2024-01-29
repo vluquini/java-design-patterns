@@ -1,8 +1,11 @@
 package creational.factorymethod.ex2;
 /*
-Neste modelo também há o uso do padrão Strategy, por meio da classe
+Neste modelo também há o uso do padrão "Template Method", por meio da classe
 abstrata Game e o método "calculatePrice", que é implementado
 de maneira diferente pelas subclasses "DigitalMedia" e "PhysicalMedia".
+
+Template Method --> é baseado em herança
+Strategy        --> é baseado com composição
  */
 public class Client {
     public static void main(String[] args) {
